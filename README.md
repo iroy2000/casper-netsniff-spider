@@ -11,6 +11,11 @@ This mashup has integrated casper netsniff functions into spider.js, which let's
 
 casper netsniff-spider.js your_site_entry_point
 
+**Troubleshooting**
+
+You may need to create 2 folders in the same directory as your netsniff-spider.js,  one is 'har/' and the other one is 'png'.  Feel free to contact iroy2000 [at] gmail.com if you have any questions. 
+
+
 **Here is some sample screenshots** 
 
  - **Capture Screenshot for each link crawled**
