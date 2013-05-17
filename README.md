@@ -1,7 +1,7 @@
-casper NetSniff Spider
+Casper netsniff Spider
 ======================
 
-This is a mashup of casper netsniff with spider.js
+This is a mashup of casper netsniff with spider.js, which combined became an automated performance testing script.
 
 **Disclaimer:** Spider.js is a very useful script I grabbed from the internet, and the author should be the owner of this blog - [http://planzero.org/blog/2013/03/07/spidering_the_web_with_casperjs][1]
 
@@ -18,7 +18,7 @@ You may need to create 2 folders in the same directory as your netsniff-spider.j
 
 **Here is some sample screenshots** 
 
- - **Capture Screenshot for each link crawled**
+ - **Capture Screenshot for each link it crawled**
 
 ![image alt][2]
 
